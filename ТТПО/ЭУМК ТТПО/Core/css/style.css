@@ -1,0 +1,182 @@
+h1 { text-transform: none;  font-family: Arial, Helvetica, sans-serif;  color: #F5F5F5;  font-size: 200%;  margin-left: 0px;  font-weight: bold;     }
+h5 { font-family: Arial, Helvetica, sans-serif; color: Black;  font-size: 200%;   }
+h2 { text-align: left; text-transform: none;  font-family: Arial, Helvetica, sans-serif;  color: #FFFFFF;  font-size: 170%;  font-weight: bold;  }
+var {
+	text-align: center;
+	text-transform: none;
+	font-family: Tahoma, Verdana, sans-serif;
+	color: #FFFAFA;
+	font-size: 100%;
+	margin-top: 0;
+	font: normal;
+	font-style: normal;
+	font-variant: normal;
+}
+var.normal {
+	text-transform: uppercase;
+}
+code {text-align: justify; font-family: sans-serif;  color: #339999;  font-size: 90%; font-style: normal;  padding-left: 20px; font-weight: bold;  margin-left: 20px;    width: 100%;  letter-spacing: 0px;           }
+em { font-family: Verdana, sans-serif;   font-style: normal;  color: #5A5A5A;  font: 85%;    t-size: large;  text-indent: 2px;  letter-spacing: 2px;       }
+
+.logostyle {background: linear-gradient(#ffffff,#002952 );
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+	}
+.div {
+ margin-top: 0;
+}
+/*.logostyle a{
+	text-decoration: none;
+	border: none;
+}*/
+
+input { border: 2px solid Black;  font-size: 120%;  font-style: normal;  font-variant: normal;  font-weight: bold;  font-family: Verdana;  text-align: center;       }
+
+
+td.spec2 { margin-top: 3px;  margin-bottom: 3px;  font-size: 1px;   }
+
+.black { margin-left: 10px;  color: Black;   }
+.margined {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+}
+
+.bigmargin { margin-left: 50px;
+		     margin-right: 20px;
+         	 margin-bottom: 0px;
+			 font-weight: bold;
+			 color: #5A5A5A;
+			 font-size: 90%
+}
+
+.bigmargin2 { margin-left: 50px;
+		     margin-right: 20px;
+         	 margin-bottom: 0px;
+			 font-weight: bold;
+			 color: #5A5A5A;
+			 font-size: 85%
+}
+
+.unmargined {
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: 0px;
+}
+.copyright { font-size : xx-small; font-family : Tahoma, Arial, sans-serif; text-align : right;}
+.smallheader {
+	font-size: 120%;
+	font-weight: bold;
+}
+
+.dot
+{
+	color: Black;
+	text-decoration: underline;
+}
+.small {
+	font-size: 2px;
+}
+.td1 {color: #F5F5F5;
+		margin: 200px;}
+		
+td {
+	font-family: Verdana, sans-serif;   font-style: normal;
+	font-size: 90%;
+}
+
+LI { font-size: 100%;  text-align: left;  padding-left: 10px;  }
+
+BODY {
+	color: Black;
+	background-color: #FFFBFB; 
+	font-size: 80%;
+	letter-spacing: 0.10em;
+	text-align: justify;
+	font-family: Tahoma, Verdana, sans-serif;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+	}
+
+P { margin-left: 10px;  margin-right: 10px;  text-align: justify;   }
+
+A {
+	color: #6495ED;
+	text-decoration: none;
+}
+
+A:HOVER {
+	color: #115ADB;
+	text-decoration: underline;
+}
+
+.program{
+	height: 270px;
+	width: 220px;
+	background-image: url(../images/addit.jpg) ;
+	background-repeat: no-repeat;}
+
+.program:hover{
+	height: 270px;
+	width: 220px;
+	background-image: url(../images/addit.jpg) ;
+	background-repeat: no-repeat;
+	border: 10px;
+	border-color: #ff0000;
+	border-style: solid;
+}
+
+.control{
+	height: 270px;
+	width: 220px;
+	background-image: url(../images/control.jpg) ;
+	background-repeat: no-repeat;}
+
+.control:hover{
+	height: 270px;
+	width: 220px;
+	background-image: url(../images/control.jpg) ;
+	background-repeat: no-repeat;
+	border: 10px;
+	border-color: #ff0000;
+	border-style: solid;
+}
+.theory{
+	height: 270px;
+	width: 220px;
+	background-image: url(../images/theory.jpg) ;
+	background-repeat: no-repeat;}
+
+.theory:hover{
+	height: 270px;
+	width: 220px;
+	background-image: url(../images/theory.jpg) ;
+	background-repeat: no-repeat;
+	border: 10px;
+	border-color: #ff0000;
+	border-style: solid;
+}
+
+.practice{
+	height: 270px;
+	width: 220px;
+	background-image: url(../images/practice.jpg) ;
+	background-repeat: no-repeat;}
+
+.practice:hover{
+	height: 270px;
+	width: 220px;
+	background-image: url(../images/practice.jpg) ;
+	background-repeat: no-repeat;
+	border: 10px;
+	border-color: #ff0000;
+	border-style: solid;
+}
+
+.to-site a{
+	color: white !important;
+}
