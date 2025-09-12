@@ -1,0 +1,16 @@
+<!ELEMENT cookbook (dish+)>
+<!ELEMENT dish (ingredients, instructions, notes?)>
+<!ATTLIST dish
+  name CDATA #REQUIRED
+  difficulty CDATA #REQUIRED
+  cuisine CDATA #IMPLIED
+>
+
+<!ELEMENT ingredients (ingredient+)>
+<!ELEMENT ingredient (#PCDATA)>
+<!ATTLIST ingredient
+  type CDATA #REQUIRED
+>
+
+<!ELEMENT instructions (#PCDATA)>
+<!ELEMENT notes (#PCDATA)>

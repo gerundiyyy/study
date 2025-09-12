@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cookbook SYSTEM "/cookbook.dtd">
+<cookbook>
+  <dish name="Борщ" difficulty="medium" cuisine="Ukrainian">
+    <ingredients>
+      <ingredient type="vegetable">Свёкла</ingredient>
+      <ingredient type="vegetable">Морковь</ingredient>
+      <ingredient type="meat">Говядина</ingredient>
+      <ingredient type="spice">Лавровый лист</ingredient>
+    </ingredients>
+    <instructions>
+      Сначала отварите мясо. Затем добавьте овощи и варите до готовности.
+    </instructions>
+    <notes>Можно добавить немного уксуса для кислинки.</notes>
+  </dish>
+
+  <dish name="Паста Карбонара" difficulty="easy" cuisine="Italian">
+    <ingredients>
+      <ingredient type="pasta">Спагетти</ingredient>
+      <ingredient type="meat">Бекон</ingredient>
+      <ingredient type="dairy">Сливки</ingredient>
+      <ingredient type="spice">Чёрный перец</ingredient>
+    </ingredients>
+    <instructions>
+      Обжарьте бекон, добавьте сливки и специи. Смешайте с пастой.
+    </instructions>
+  </dish>
+</cookbook>
